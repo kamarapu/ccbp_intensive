@@ -5,7 +5,7 @@ Create two files `exportMultipleValues.mjs`, `importMultipleValues.mjs` parallel
 
 Write an array, object and a function that in the file `exportMultipleValues.mjs` and export them using the named export syntax.
 
-Import the values in the `importMultipleValues.mjs` file.
+Import the values in the `importMultipleValues.mjs` file.yesyesyes
 
 <b>Use ES6 module syntax</b>.
 
